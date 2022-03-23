@@ -1,0 +1,339 @@
+{
+    "article_info": {
+        "category_id": 1000,
+        "category_name": "その他",
+        "file_name": "how-to-use-this-app",
+        "list_title": "How to use this App",
+        "page_title": "How to use this App",
+        "date": "2022-04-13"
+    },
+    "items": [
+        {
+            "type": "h1",
+            "text": "How to use Honorific Converter"
+        },
+        {
+            "type": "body",
+            "text_items": [
+                {
+                    "styles": [],
+                    "text": "Honorific Converter is a support application for creating sentences in honorifics (keigo, 敬語), which is difficult even Japanese people.\nBy writing or pasting Japanese sentences, it automatically revise incorrect sentences.\n\nHonorific Converter has \"Convert\" tab and \"Articles\" tab."
+                }
+            ]
+        },
+        {
+            "type": "h2",
+            "text_items": [
+                {
+                    "styles": [],
+                    "text": "About \"Convert\" tab"
+                }
+            ]
+        },
+        {
+            "type": "body",
+            "text_items": [
+                {
+                    "styles": [],
+                    "text": "You can convert to the next five honorifics.\n\n"
+                },
+                {
+                    "styles": [
+                        "respectful"
+                    ],
+                    "text": "Respectful"
+                },
+                {
+                    "styles": [],
+                    "text": " - Words to respect the other party\n"
+                },
+                {
+                    "styles": [
+                        "humble"
+                    ],
+                    "text": "Humble I"
+                },
+                {
+                    "styles": [],
+                    "text": " - Words that humble yourself and respect the other party\n"
+                },
+                {
+                    "styles": [
+                        "courteous"
+                    ],
+                    "text": "Humble II"
+                },
+                {
+                    "styles": [],
+                    "text": " - Words to humble yourself (no connotation of respect)\n"
+                },
+                {
+                    "styles": [
+                        "polite"
+                    ],
+                    "text": "Polite"
+                },
+                {
+                    "styles": [],
+                    "text": " - Civility like 'please'\n"
+                },
+                {
+                    "styles": [
+                        "polite"
+                    ],
+                    "text": "Bikago"
+                },
+                {
+                    "styles": [],
+                    "text": " - Add \"お\" or \"ご\" or \"御\" to the beginning of a noun. In most cases, this is also civility like 'please'\n"
+                }
+            ]
+        },
+        {
+            "type": "block_quote",
+            "text_items": [
+                {
+                    "styles": [],
+                    "text": "明日の午後1時にあなたの会社に行きます。\nI will go to your office at 1pm tomorrow."
+                }
+            ]
+        },
+        {
+            "type": "body",
+            "text_items": [
+                {
+                    "styles": [],
+                    "text": "First, change \"あなたの会社\" (your office) to the "
+                },
+                {
+                    "styles": [
+                        "respectful"
+                    ],
+                    "text": "Respectful"
+                },
+                {
+                    "styles": [],
+                    "text": " \""
+                },
+                {
+                    "styles": [
+                        "respectful"
+                    ],
+                    "text": "貴社"
+                },
+                {
+                    "styles": [],
+                    "text": "\".\nAnd \"行く\" (go to) is yourself action, so change it to "
+                },
+                {
+                    "styles": [
+                        "humble"
+                    ],
+                    "text": "Humble I"
+                },
+                {
+                    "styles": [],
+                    "text": " or "
+                },
+                {
+                    "styles": [
+                        "courteous"
+                    ],
+                    "text": "Humble II"
+                },
+                {
+                    "styles": [],
+                    "text": "."
+                }
+            ]
+        },
+        {
+            "type": "block_quote",
+            "text_items": [
+                {
+                    "styles": [],
+                    "text": "✅ 明日の午後1時に"
+                },
+                {
+                    "styles": [
+                        "respectful"
+                    ],
+                    "text": "貴社"
+                },
+                {
+                    "styles": [],
+                    "text": "に"
+                },
+                {
+                    "styles": [
+                        "humble"
+                    ],
+                    "text": "伺います"
+                },
+                {
+                    "styles": [],
+                    "text": "。"
+                }
+            ]
+        },
+        {
+            "type": "block_quote",
+            "text_items": [
+                {
+                    "styles": [],
+                    "text": "✅ 明日の午後1時に"
+                },
+                {
+                    "styles": [
+                        "respectful"
+                    ],
+                    "text": "貴社"
+                },
+                {
+                    "styles": [],
+                    "text": "に"
+                },
+                {
+                    "styles": [
+                        "courteous"
+                    ],
+                    "text": "参ります"
+                },
+                {
+                    "styles": [],
+                    "text": "。"
+                }
+            ]
+        },
+        {
+            "type": "body",
+            "text_items": [
+                {
+                    "styles": [],
+                    "text": "Next,"
+                }
+            ]
+        },
+        {
+            "type": "block_quote",
+            "text_items": [
+                {
+                    "styles": [],
+                    "text": "先週の土曜日に京都に行きました。\nI went to Kyoto last Saturday."
+                }
+            ]
+        },
+        {
+            "type": "body",
+            "text_items": [
+                {
+                    "styles": [],
+                    "text": "In this case, the other party is not involved in the action of \"行く\", so changing it to "
+                },
+                {
+                    "styles": [
+                        "humble"
+                    ],
+                    "text": "Humble I"
+                },
+                {
+                    "styles": [],
+                    "text": " is a mistake, use "
+                },
+                {
+                    "styles": [
+                        "courteous"
+                    ],
+                    "text": "Humble II"
+                },
+                {
+                    "styles": [],
+                    "text": "."
+                }
+            ]
+        },
+        {
+            "type": "block_quote",
+            "text_items": [
+                {
+                    "styles": [],
+                    "text": "❌ 先週の土曜日に京都に"
+                },
+                {
+                    "styles": [
+                        "humble"
+                    ],
+                    "text": "伺いました"
+                },
+                {
+                    "styles": [],
+                    "text": "。"
+                }
+            ]
+        },
+        {
+            "type": "block_quote",
+            "text_items": [
+                {
+                    "styles": [],
+                    "text": "✅ 先週の土曜日に京都に"
+                },
+                {
+                    "styles": [
+                        "courteous"
+                    ],
+                    "text": "参りました"
+                },
+                {
+                    "styles": [],
+                    "text": "。"
+                }
+            ]
+        },
+        {
+            "type": "body",
+            "text_items": [
+                {
+                    "styles": [
+                        "polite"
+                    ],
+                    "text": "Polite"
+                },
+                {
+                    "styles": [],
+                    "text": " and "
+                },
+                {
+                    "styles": [
+                        "polite"
+                    ],
+                    "text": "Bikago"
+                },
+                {
+                    "styles": [],
+                    "text": " have no such rule."
+                }
+            ]
+        },
+        {
+            "type": "h2",
+            "text_items": [
+                {
+                    "styles": [],
+                    "text": "About \"Articles\" tab"
+                }
+            ]
+        },
+        {
+            "type": "body",
+            "text_items": [
+                {
+                    "styles": [],
+                    "text": "You can read articles about honorifics.\nHowever, the articles are written in Japanese.\nArticles will be updated from time to time."
+                }
+            ]
+        }
+    ],
+    "ad_positions": [],
+    "references": []
+}

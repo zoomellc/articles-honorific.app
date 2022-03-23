@@ -1,0 +1,143 @@
+{
+    "article_info": {
+        "category_id": 1000,
+        "category_name": "その他",
+        "file_name": "应用程序的使用方法",
+        "list_title": "应用程序的使用方法",
+        "page_title": "应用程序的使用方法",
+        "date": "2022-07-11"
+    },
+    "items": [
+        {
+            "type": "h1",
+            "text": "敬语转换使用方法"
+        },
+        {
+            "type": "body",
+            "text_items": [
+                {
+                    "styles": [],
+                    "text": "敬语转换有“转换”功能和“学习”功能。"
+                }
+            ]
+        },
+        {
+            "type": "h2",
+            "text_items": [
+                {
+                    "styles": [],
+                    "text": "“转换”功能"
+                }
+            ]
+        },
+        {
+            "type": "body",
+            "text_items": [
+                {
+                    "styles": [],
+                    "text": "该功能可让您更正句子中不正确的敬语并检查您喜欢的敬语。\n\n"
+                },
+                {
+                    "styles": [
+                        "respectful"
+                    ],
+                    "text": "尊敬语"
+                },
+                {
+                    "styles": [],
+                    "text": "…抬高主题的词（上司、业务伙伴、客户等）。它用于您尊重的对方和对方的行为。\n"
+                },
+                {
+                    "styles": [
+                        "humble"
+                    ],
+                    "text": "谦逊语"
+                },
+                {
+                    "styles": [],
+                    "text": "…通过降低主题（自己或自己人）来抬高相对尊重对方的词。\n"
+                },
+                {
+                    "styles": [
+                        "courteous"
+                    ],
+                    "text": "殷勤语"
+                },
+                {
+                    "styles": [],
+                    "text": "…当主题是你自己或自己人时，你可以通过使用它来表现出谦虚。\n"
+                },
+                {
+                    "styles": [
+                        "polite"
+                    ],
+                    "text": "礼貌语"
+                },
+                {
+                    "styles": [],
+                    "text": "…礼貌用语。它也用于不需要谦逊自己或抬高对方的行为。\n\n你可以写出正确的敬语句子，对自己和自己人使用"
+                },
+                {
+                    "styles": [
+                        "humble"
+                    ],
+                    "text": "谦逊的"
+                },
+                {
+                    "styles": [],
+                    "text": "或"
+                },
+                {
+                    "styles": [
+                        "courteous"
+                    ],
+                    "text": "殷勤的"
+                },
+                {
+                    "styles": [],
+                    "text": "词，对你尊重的人使用"
+                },
+                {
+                    "styles": [
+                        "respectful"
+                    ],
+                    "text": "尊敬语"
+                },
+                {
+                    "styles": [],
+                    "text": "，对其他人使用"
+                },
+                {
+                    "styles": [
+                        "polite"
+                    ],
+                    "text": "礼貌语"
+                },
+                {
+                    "styles": [],
+                    "text": "。"
+                }
+            ]
+        },
+        {
+            "type": "h2",
+            "text_items": [
+                {
+                    "styles": [],
+                    "text": "“学习”功能"
+                }
+            ]
+        },
+        {
+            "type": "body",
+            "text_items": [
+                {
+                    "styles": [],
+                    "text": "您可以阅读有关敬语的文章。但是，只有用日语写的文章。文章有时添加。"
+                }
+            ]
+        }
+    ],
+    "ad_positions": [],
+    "references": []
+}
