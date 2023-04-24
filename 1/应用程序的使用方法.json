@@ -17,7 +17,7 @@
             "text_items": [
                 {
                     "styles": [],
-                    "text": "敬语转换有“转换”功能和“学习”功能。"
+                    "text": "敬语转换有“转换”功能，“产生”功能，“学习”功能。"
                 }
             ]
         },
@@ -116,6 +116,24 @@
                 {
                     "styles": [],
                     "text": "。"
+                }
+            ]
+        },
+        {
+            "type": "h2",
+            "text_items": [
+                {
+                    "styles": [],
+                    "text": "“产生”功能"
+                }
+            ]
+        },
+        {
+            "type": "body",
+            "text_items": [
+                {
+                    "styles": [],
+                    "text": "该句子是使用OpenAI的ChatGPT编写的。用简体字也可以填写。"
                 }
             ]
         },

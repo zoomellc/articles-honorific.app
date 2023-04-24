@@ -17,7 +17,7 @@
             "text_items": [
                 {
                     "styles": [],
-                    "text": "Honorific Converter is a support application for creating sentences in honorifics (keigo, 敬語), which is difficult even Japanese people.\nBy writing or pasting Japanese sentences, it automatically revise incorrect sentences.\n\nHonorific Converter has \"Convert\" tab and \"Articles\" tab."
+                    "text": "Honorific Converter is a support application for creating sentences in honorifics (keigo, 敬語), which is difficult even Japanese people.\nBy writing or pasting Japanese sentences, it automatically revise incorrect sentences.\n\nHonorific Converter has three tabs: \"Convert\", \"Generate\" and \"Articles\"."
                 }
             ]
         },
@@ -312,6 +312,24 @@
                 {
                     "styles": [],
                     "text": " have no such rule."
+                }
+            ]
+        },
+        {
+            "type": "h2",
+            "text_items": [
+                {
+                    "styles": [],
+                    "text": "About \"Generate\" tab"
+                }
+            ]
+        },
+        {
+            "type": "body",
+            "text_items": [
+                {
+                    "styles": [],
+                    "text": "Generate Japanese sentences using OpenAI's ChatGPT.\nEnglish can be used for orders to ChatGPT."
                 }
             ]
         },
