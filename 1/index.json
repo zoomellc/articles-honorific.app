@@ -18,7 +18,6 @@
         },
         {
             "category_id": 0,
-            "category_name": "敬語の基本",
             "file_name": "尊敬語",
             "list_title": "尊敬語",
             "page_title": "「尊敬語」は意外と難しくない。使い方を徹底解説！",
@@ -29,7 +28,7 @@
         {
             "category_id": 0,
             "file_name": "尊敬語-謙譲語-丁寧語",
-            "list_title": "「尊敬語、謙譲語、丁寧語」の基本",
+            "list_title": "敬語の基本",
             "page_title": "敬語の基本「尊敬語」「謙譲語」「丁寧語」",
             "date": "2022-02-01",
             "url": "https://xn--gdvx14f.jp/%E5%B0%8A%E6%95%AC%E8%AA%9E-%E8%AC%99%E8%AD%B2%E8%AA%9E-%E4%B8%81%E5%AF%A7%E8%AA%9E/",
@@ -64,6 +63,16 @@
         },
         {
             "category_id": 3,
+            "category_name": "勘違い敬語",
+            "file_name": "いただきます-頂戴いたします",
+            "list_title": "食事の前には「いただきます」より「頂戴いたします」？",
+            "page_title": "食事の前には「いただきます」より「頂戴いたします」の方が丁寧って本当？",
+            "date": "2022-05-23",
+            "url": "https://xn--gdvx14f.jp/%E3%81%84%E3%81%9F%E3%81%A0%E3%81%8D%E3%81%BE%E3%81%99-%E9%A0%82%E6%88%B4%E3%81%84%E3%81%9F%E3%81%97%E3%81%BE%E3%81%99/",
+            "url_no_percent_encode": "https://敬語.jp/いただきます-頂戴いたします/"
+        },
+        {
+            "category_id": 3,
             "file_name": "了解しました-承知しました",
             "list_title": "「了解しました」より「承知しました」の方が丁寧？",
             "page_title": "「了解しました」より「承知しました」の方が丁寧？謎のマナーについて",
@@ -79,16 +88,6 @@
             "date": "2022-02-03",
             "url": "https://xn--gdvx14f.jp/%E5%AE%9C%E3%81%97%E3%81%8F%E3%81%8A%E9%A1%98%E3%81%84%E8%87%B4%E3%81%97%E3%81%BE%E3%81%99/",
             "url_no_percent_encode": "https://敬語.jp/宜しくお願い致します/"
-        },
-        {
-            "category_id": 3,
-            "category_name": "勘違い敬語",
-            "file_name": "いただきます-頂戴いたします",
-            "list_title": "食事の前には「いただきます」より「頂戴いたします」？",
-            "page_title": "食事の前には「いただきます」より「頂戴いたします」の方が丁寧って本当？",
-            "date": "2022-05-23",
-            "url": "https://xn--gdvx14f.jp/%E3%81%84%E3%81%9F%E3%81%A0%E3%81%8D%E3%81%BE%E3%81%99-%E9%A0%82%E6%88%B4%E3%81%84%E3%81%9F%E3%81%97%E3%81%BE%E3%81%99/",
-            "url_no_percent_encode": "https://敬語.jp/いただきます-頂戴いたします/"
         }
     ]
 }
